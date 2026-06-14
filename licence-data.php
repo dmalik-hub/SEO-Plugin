@@ -2,12 +2,12 @@
 /**
  * License Data Configuration
  *
- * This file defines constants used for site registration with RankMath.com.
+ * This file defines constants used for GoHigh SEO site registration.
  *
- * @since      3.0.88
- * @package    RankMathPro
- * @subpackage RankMathPro\Admin
- * @author     Rank Math <support@rankmath.com>
+ * @since      1.0.0
+ * @package    GoHighSEO
+ * @subpackage GoHighSEO\Admin
+ * @author     GoHigh SEO <support@gohighseo.com>
  */
 
 defined( 'ABSPATH' ) || exit;

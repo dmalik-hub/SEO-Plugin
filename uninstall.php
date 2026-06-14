@@ -15,9 +15,9 @@
  * This file may be updated more in future version of the Boilerplate; however, this is the
  * general skeleton and outline for how the file should work.
  *
- * @link    https://rankmath.com
- * @since   0.9.0
- * @package RANK_MATH
+ * @link    https://gohighseo.com
+ * @since   1.0.0
+ * @package GoHighSEO
  */
 
 // If uninstall not called from WordPress, then exit.
